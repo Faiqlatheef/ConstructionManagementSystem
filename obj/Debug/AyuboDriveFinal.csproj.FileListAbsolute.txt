@@ -1,0 +1,144 @@
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe.config
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.pdb
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Cash.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Customer.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Driver.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Hire.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.HirePayment.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Hire_packages.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pattycash.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Properties.Resources.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Rates.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Rent.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.RentPayment.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Vehicles.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.VehicleType.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csproj.GenerateResource.Cache
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.exe
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pdb
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csprojResolveAssemblyReference.cache
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.hirepaymenttable.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.AvailableVehicles.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookcusbyvehicleID.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookdcusbyhireID.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookdcusbyrentID.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookunbook.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.customerprofit.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.rentpaymenttable.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.ReportMainForm.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.topdriver.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalcoast.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalincome.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalprofit.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.vehiclecoast.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.vehicleincome.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Login.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.loginform.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainForm.resources
+E:\1 profession\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntn.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe.config
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.exe
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pdb
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.pdb
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csprojResolveAssemblyReference.cache
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.AvailableVehicles.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookcusbyvehicleID.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookdcusbyhireID.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookdcusbyrentID.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.bookunbook.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Cash.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Customer.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.customerprofit.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Driver.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Hire.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.HirePayment.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.hirepaymenttable.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Hire_packages.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Login.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.loginform.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainForm.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntn.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pattycash.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Properties.Resources.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Rates.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Rent.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.RentPayment.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.rentpaymenttable.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.ReportMainForm.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.topdriver.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalcoast.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalincome.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalprofit.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.vehiclecoast.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.vehicleincome.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Vehicles.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.VehicleType.resources
+E:\1 Esoft\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csproj.GenerateResource.Cache
+C:\Users\FA CREATIONS\Desktop\Degree\MSS\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe.config
+C:\Users\FA CREATIONS\Desktop\Degree\MSS\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.exe
+C:\Users\FA CREATIONS\Desktop\Degree\MSS\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pdb
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe.config
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.exe
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pdb
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csprojResolveAssemblyReference.cache
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.paymentMethod.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffStatus.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Staff.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Login.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffPayment.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffType.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Payment.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeave.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Client.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttendance.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainForm.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainFormAdmin.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntnManager.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntnAdmin.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.projectprosRep.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalcoast.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttandenceByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalincome.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.proje.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeaveByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csproj.GenerateResource.Cache
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Properties.Resources.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.pdb
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttendanceView.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffSearch.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeaveTypeByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe.config
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.exe
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\bin\Debug\AyuboDriveFinal.pdb
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csprojResolveAssemblyReference.cache
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.paymentMethod.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeaveTypeByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffSearch.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttendanceView.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffStatus.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Staff.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Login.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffPayment.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffType.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Payment.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeave.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Client.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttendance.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainForm.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainFormAdmin.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntnManager.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.mainfrmcntnAdmin.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.Properties.Resources.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.projectprosRep.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalcoast.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffAttandenceByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.totalincome.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.proje.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.staffLeaveByDate.resources
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csproj.GenerateResource.Cache
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.csproj.CoreCompileInputs.cache
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.exe
+C:\Users\FA CREATIONS\Desktop\Degree\AD\course work 1\ConstructionManagementSystem\App\AyuboDriveFinal\AyuboDriveFinal\obj\Debug\AyuboDriveFinal.pdb
